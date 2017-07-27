@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.18)  24 JUL 2017 08:35
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.18)  27 JUL 2017 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1587,18 +1587,18 @@ Overfull \hbox (29.0697pt too wide) in alignment at lines 189--229
  []
 
 [3]
-Overfull \hbox (29.0697pt too wide) in alignment at lines 229--230
+Overfull \hbox (29.0697pt too wide) in alignment at lines 229--242
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 232.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 232.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 244.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 244.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
  ) 
 Here is how much of TeX's memory you used:
  27637 strings out of 493638
