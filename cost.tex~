@@ -277,8 +277,6 @@
   & bzoj3171 & bzoj & AC & AC & 费用流\\
   & bzoj2245 & bzoj & WA & AC & 费用流\\
   \hline
-  2017.8.23 & bzoj1520 & bzoj & WA & AC & 费用流\\
-  \hline
 \end{longtable}
 
 \end{document}
