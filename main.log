@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  3 SEP 2017 14:42
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  4 SEP 2017 07:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1721,16 +1721,24 @@ Overfull \hbox (54.82983pt too wide) in alignment at lines 323--346
  []
 
 [8]
-Overfull \hbox (54.82983pt too wide) in alignment at lines 346--347
+Overfull \hbox (137.55757pt too wide) in alignment at lines 346--349
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 349.
+
 [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 351.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 351.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 349.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 349.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 351.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 351.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1739,7 +1747,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 351.
  ) 
 Here is how much of TeX's memory you used:
  27765 strings out of 493638
@@ -1750,4 +1758,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  65i,7n,77p,10430b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (9 pages).
+Output written on main.pdf (10 pages).
