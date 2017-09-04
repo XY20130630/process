@@ -1633,7 +1633,7 @@ LaTeX Font Info:    External font `xccex10' loaded for size
 LaTeX Font Info:    External font `xccex10' loaded for size
 (Font)              <6> on input line 34.
 
-Overfull \hbox (137.55757pt too wide) in alignment at lines 36--67
+Overfull \hbox (37.37065pt too wide) in alignment at lines 36--67
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -1664,64 +1664,64 @@ LaTeX Font Warning: Font shape `U/msb/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 69.
 
 
-Overfull \hbox (137.55757pt too wide) in alignment at lines 67--92
+Overfull \hbox (37.37065pt too wide) in alignment at lines 67--92
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [1
 
 ]
-Overfull \hbox (137.55757pt too wide) in alignment at lines 92--119
+Overfull \hbox (37.37065pt too wide) in alignment at lines 92--119
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (137.55757pt too wide) in alignment at lines 119--143
+Overfull \hbox (54.82983pt too wide) in alignment at lines 119--143
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [2]
-Overfull \hbox (137.55757pt too wide) in alignment at lines 143--172
+Overfull \hbox (54.82983pt too wide) in alignment at lines 143--172
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [3]
-Overfull \hbox (137.55757pt too wide) in alignment at lines 172--200
+Overfull \hbox (54.82983pt too wide) in alignment at lines 172--200
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (137.55757pt too wide) in alignment at lines 200--225
+Overfull \hbox (54.82983pt too wide) in alignment at lines 200--225
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [4]
-Overfull \hbox (137.55757pt too wide) in alignment at lines 225--251
+Overfull \hbox (54.82983pt too wide) in alignment at lines 225--251
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [5]
-Overfull \hbox (137.55757pt too wide) in alignment at lines 251--275
+Overfull \hbox (54.82983pt too wide) in alignment at lines 251--275
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [6]
-Overfull \hbox (137.55757pt too wide) in alignment at lines 275--298
+Overfull \hbox (54.82983pt too wide) in alignment at lines 275--298
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (137.55757pt too wide) in alignment at lines 298--323
+Overfull \hbox (54.82983pt too wide) in alignment at lines 298--323
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [7]
-Overfull \hbox (137.55757pt too wide) in alignment at lines 323--346
+Overfull \hbox (54.82983pt too wide) in alignment at lines 323--346
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [8]
-Overfull \hbox (22.64894pt too wide) in alignment at lines 346--353
+Overfull \hbox (54.82983pt too wide) in alignment at lines 346--353
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -1752,7 +1752,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
 Here is how much of TeX's memory you used:
  27765 strings out of 493638
  520046 string characters out of 6146796
- 548799 words of memory out of 5000000
+ 549799 words of memory out of 5000000
  30876 multiletter control sequences out of 15000+600000
  17152 words of font info for 66 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
