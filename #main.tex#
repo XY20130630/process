@@ -308,17 +308,192 @@
   & campaign &test & WA & AC & 二次函数\ {\color{red}打挂了}\\
   \hline
   2017.8.29 & ska &test & WA & AC & 结论+枚举\ {\color{red}没想到、想得太复杂}\\
-  & tet &test & & AC & 结论+树状数组\ {\color{red}没想到}\\e
+  & tet &test & & AC & 结论+树状数组\ {\color{red}没想到}\\
   & klo &test & WA & AC & 树状数组优化dp\ {\color{red}打挂了}\\
   & gaz &test & & AC & 模拟\ {\color{red}没想到}\\
   & loj2306 & loj & WA & AC & 贪心+堆\\
   \hline
   2017.8.30 & control & test & AC & AC & 贪心\\
   & permu & test & & AC & 结论+dp\\
-  & pilgrims & test & & 理性 & O(n)的dp\\
+  & pilgrims & test & & 见下 & O(n)的dp\\
   \hline
   2017.8.31 & luogu3649 & luogu & WA & AC & 回文树第一题\\
+  & odw & test & WA & 见下 & 贪心\\
+  & egz & test & WA & 见下 & dp\\
+  & wag & test & AC & 见下 & dp\\
+  & clo & test & AC & 见下 & dfs\\
+  \hline
+  2017.9.1 & odw & test & WA & AC & 贪心\\
+  & odw & test & WA & AC & 贪心\\
+  & egz & test & WA & AC & dp\\
+  & wag & test & AC & AC & dp\\
+  & clo & test & AC & AC & dfs\\
+  & pilgrims & test & & AC & O(n)的dp\\
+  & bzoj4342 & bzoj & WA & AC & dp\\
+  & cf348E & cf & WA & AC & dp\\
+  \hline
+  2017.9.2 & ural1960 & ural & AC & AC & 回文树\\
+  & split & test & AC & AC & 组合数\\
+  & move & test & AC & AC & dfs\\
+  & football & test & AC & {\color{cyan}AC 假} & 贪心（数据水）\\
+  & football & test & AC & AC & dp\\
+  & 双回文 & 清华集训 & AC & AC & 回文树\\
+  & 游戏 & lojTest & WA & AC & 逆序对\\
+  & 子集 & lojTest & WA & AC & 最大团转最大独立集\\
+  & 求和 & lojTest & WA & AC & 莫比乌斯反演\\
+  \hline
+  2017.9.3 & 拉拉队排练 & & WA & AC & 回文树\\
+  & math & test & WA & AC & 扩欧+组合（爆long long）\\
+  & walk & test & WA & AC & dp\\
+  \hline
+  2017.9.4 & cf852I & cf & WA & AC & 树上莫队\\
+  & A1393 & 清橙 & WA & AC & 回文树\\
+  & cf17E & cf & WA & AC & 回文树\\
+  & luogu1762 & luogu & WA & {\color{red} WA} & 数位dp\\
+  \hline
+  2017.9.5 & customer & test & AC & AC & 贪心\\
+  & prz & test & AC & AC & 贪心\\
+  & int & test & AC & AC & 贪心\\
+  & partition & test & AC & AC & 二分\\
+  & ticket & test & AC & AC & 组合数\\
+  & string & test & 理性 & 愉悦 & 回文树\\
+  \hline
+  2017.9.6 & bit & test & AC & AC & 模拟\\
+  & remove & test & & & 堆\\
+  & wash & test & WA & & 结论题\\
+  & master & test & WA & AC & 二分\\
+  & gap & test & & AC & 二分+hash\\
+  & process & test & AC & AC & 贪心\\
+  & loj2083 & loj & WA & AC & 二分+hash\\
+  & loj2033 & loj & AC & AC & 后缀数组+set\\
+  \hline
+  2017.9.7 & loj2133 & loj & AC & AC & 后缀数组+并查集\\
+  & loj6198 & loj & AC & AC & 后缀数组+并查集+启发式合并trie\\
+  & loj2964 & loj & AC & AC & 后缀数组+并查集\\
+  & bzoj3238 & bzoj & WA & AC & 后缀数组+并查集\\
+  & bzoj3277 & bzoj & WA & AC & 后缀数组+并查集+启发式合并set\\
+  & bzoj3473 & bzoj & AC & AC & 后缀数组+并查集+启发式合并set\\
+  \hline
+  2017.9.8 & bzoj3796 & bzoj & AC & AC & 后缀数组+二分+kmp\\
+  & hdu5906 & hdu & WA & AC & 二分+hash+扫描线+树状数组+并查集（卡自然溢）\\
+  \hline
+  2017.9.9 & xor & test & AC & AC & dfs+二进制+枚举子集\\
+  & totient & test & WA & AC & dp\\
+  \hline
+  2017.9.10 & bzoj3879 & bzoj & 理性 & 愉悦 & 后缀数组＋虚树\\
+  & bzoj4556 & bzoj & AC & AC & 后缀数组＋主席树\\
+  & loj2059 & loj & WA & AC & 后缀数组＋主席树\\
+  & bzoj4698 & bzoj & WA & AC & 后缀数组＋并查集＋set\\
+  & & & & & 严重怀疑数据（没过样例即A）\\
+  & bzoj4319 & bzoj & WA & AC & 贪心＋后缀数组\\
+  & cf856B & codeforces & WA & AC & AC自动机＋树形dp\\
+  \hline
+  2017.9.11 & connect & test & AC & AC & 最小生成树\\
+  & strike & test & AC & AC & 二分+bfs\\
+  & godwall & test & AC & AC & 强连通分量\\
+  & 绿豆蛙的归宿 & bzoj & 理性 & 愉悦 & 期望\\
+  & IIya and Escalator & codefoces & 理性 & 愉悦 & 期望\\
+  & Easy & bzoj & 理性 & 愉悦 & 期望\\
+  & osu & bzoj & 理性 & 愉悦 & 期望\\
+  & 错位选择 & bzoj & 理性 & 愉悦 & 期望\\
+  & 玩纸牌 & cogs & 理性 & 愉悦 & 期望\\
+  & 麻球繁衍 & cogs & 理性 & 愉悦 & 期望\\
+  & Painting The Wall & codeforces & 理性 & 愉悦 & 期望\\
+  & Game on the Tree & codefoces & 理性 & 愉悦 & 期望\\
+  & cf \#390 C & cf & WA & AC & 字符串+dp\\
+  \hline
+  2017.9.12 & atm & test & AC & AC & 强连通分量＋拓扑排序+dp\\
+  & beads & test & AC & AC & 枚举+hash+set\\
+  & clever & test & AC & AC & 最短路\\
+  & park & test & AC & AC & 状压dp\\
+  \hline
+  2017.9.13 & bzoj4723 & bzoj & WA & AC & 被秀智商了\\
+  & bzoj4724 & bzoj & WA & AC & 二分＋数论\\
+  \hline
+  2017.9.14 & lca & test & RE & RE & 卡空间\\
+  & foo & test & AC & AC & 树剖\\
+  & walk & test & WA & AC & 树形dp\\
+  \hline
+  2017.9.15 & wornhole & WA & AC & 最短路\\
+  & cir & WA & AC & 最短路\\
+  \hline
+  2017.9.16 & 后缀自动机学习 & & & \\
+  \hline
+  2017.9.17 & 后缀自动机学习 & & & \\
+  & T1 & 洛谷月赛 & AC & AC & 位运算\\
+  & T2 & 洛谷月赛 & AC & AC & 等比数列求和\\
+  & T3 & 洛谷月赛 & AC & AC & 线段树合并\\
+  \hline
+  2017.9.18 & count & test & AC & AC & dp+组合\\
+  & delete & test & WA & AC & 最长不降子序列裸题\\
+  & floor & test & AC & AC & 生成函数解递归式\\
+  & LCS & spoj & TL & AC & sam\\
+  & poj2774 & poj & TL & AC & sam\ \color{red} map有毒\\
+  & LCS2 & spoj & AC & AC & sam\\
+  & substrings & spoj & WA & AC & sam\\
+  \hline
+  2017.9.19 & aqnum & test & WA & AC & 搜索\\
+  & coin & test & TL & AC & dp\\
+  & triangle & test & WA & AC & 分块+组合\\
+  \hline
+  2017.9.21 & sum & test & AC & AC & 暴力\\
+  & light & test & AC & AC & 二分\\
+  & sequence & test & AC & AC & dp\\
+  & 思博题 & test & WA & AC & 杜教筛＋斐波那契通项公式＋二项式展开\\
+  & 计数题 & test & WA & AC & trie的启发式合并\\
+  \hline
+  2017.9.22 & overflow & test & WA & AC & 高精度+字符串\\
+  & func & test & WA & AC & 暴力\\
+  & jumpcut & test & WA & AC & 暴力+分析性质\\
+  \hline
+  2017.9.23 & test20170314三题 \\
+  \hline
+  2017.9.24 & test20170315两题 \\
+  \hline
+  2017.9.25 & test20170316一题 \\
+  \hline
+  2017.9.26 & test20170317三题 \\
+  \hline
+  2017.9.27 & test20170318两题 \\
+  \hline
+  2017.9.28 & test20170328两题 \\
+  \hline
+  2017.9.29 & test20170406两题 \\
+  \hline
+  2017.9.30 & test20170407三题 \\
+  \hline
+  2017.10.1 & test20170408一题 \\
+  \hline
+  2017.10.2 & test20170409三题 \\
+  \hline
+  2017.10.3 & cf263E & codeforces & WA & AC & 暴力\\
+  & cf293B & codeforces & WA & AC & 最小表示+搜索\\
+  \hline
+  2017.10.4 & cf235E & codeforces & AC & AC & 莫比乌斯反演\\
+  & cf325E & codeforces & WA & AC & 构造\\
+  \hline
+  2017.10.5 & cf241B & codeforces & AC & AC & trie树\\
+  \hline
+  2017.10.6 & cf260E & codeforces & AC & AC & 构造+树状数组\\
+  & cf317E & codeforces & WA & AC & 构造\\
+  \hline
+  2017.10.7 & cf325D & codeforces & AC & AC & 并查集\\
+  & cf339E & codeforces & WA & AC & 搜索\\
+  \hline
+  2017.10.8 & cf332D & codeforces & WA & WA & 被卡精度……\\
+  & cf261D & codeforces & AC & AC & 暴力+最长上升子序列\\
+  \hline
+  2017.10.9 & cf235C & codeforces & AC & AC & 后缀自动机\\
+  & cf258D & codeforces & AC & AC & 概率dp\\
+  \hline
+  2017.10.10 & cf311E & codeforces & AC & AC & 最小割\\
+  \hline
+  2017.10.11 & cf280E & codeforces & AC & AC & 二次函数模拟dp（听说可以用splay维护？）\\
+  & cf238D & codeforces & 理性 & 愉悦 & 链表模拟（一种整体包含局部的思想）\\
+  & cf238E & codeforces & AC & AC & dijkstra+floyed+割点（边权为1，复杂度可为O(m+n)）\\
+  & cf241F & codeforces & 理性 & 愉悦 & 模拟\\
   \hline
 \end{longtable}
 
-\end{document}
+\end{document}           
+init 6
