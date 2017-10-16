@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.10)  16 OCT 2017 10:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.10)  16 OCT 2017 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1751,17 +1751,22 @@ Overfull \hbox (54.82983pt too wide) in alignment at lines 478--504
  []
 
 [12]
-Overfull \hbox (54.82983pt too wide) in alignment at lines 504--525
+Overfull \hbox (54.82983pt too wide) in alignment at lines 504--527
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 527.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 527.
+Overfull \hbox (54.82983pt too wide) in alignment at lines 527--529
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 531.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 531.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 527.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 527.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 531.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 531.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1770,7 +1775,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 527.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 531.
  ) 
 Here is how much of TeX's memory you used:
  27776 strings out of 493638
@@ -1781,4 +1786,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  65i,7n,77p,10430b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (14 pages).
+Output written on main.pdf (15 pages).
