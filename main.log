@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  17 OCT 2017 15:03
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  17 OCT 2017 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1756,17 +1756,17 @@ Overfull \hbox (54.82983pt too wide) in alignment at lines 504--527
  []
 
 [13]
-Overfull \hbox (54.82983pt too wide) in alignment at lines 527--530
+Overfull \hbox (54.82983pt too wide) in alignment at lines 527--536
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 532.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 538.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 532.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 538.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 532.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 532.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 538.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 538.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1775,7 +1775,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 532.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 538.
  ) 
 Here is how much of TeX's memory you used:
  27776 strings out of 493638
