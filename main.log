@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  18 OCT 2017 16:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  18 OCT 2017 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1756,17 +1756,22 @@ Overfull \hbox (54.82983pt too wide) in alignment at lines 504--527
  []
 
 [13]
-Overfull \hbox (54.82983pt too wide) in alignment at lines 527--548
+Overfull \hbox (54.82983pt too wide) in alignment at lines 527--549
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (54.82983pt too wide) in alignment at lines 549--551
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 550.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 553.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 550.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 553.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 550.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 550.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 553.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 553.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1775,13 +1780,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 550.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 553.
  ) 
 Here is how much of TeX's memory you used:
- 27776 strings out of 493638
- 520780 string characters out of 6146796
+ 27785 strings out of 493638
+ 521386 string characters out of 6146796
  549799 words of memory out of 5000000
- 30887 multiletter control sequences out of 15000+600000
+ 30896 multiletter control sequences out of 15000+600000
  17152 words of font info for 66 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  65i,7n,77p,10430b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
