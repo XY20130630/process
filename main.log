@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  19 OCT 2017 19:40
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.10)  29 OCT 2017 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1761,17 +1761,17 @@ Overfull \hbox (54.82983pt too wide) in alignment at lines 527--549
  []
 
 
-Overfull \hbox (54.82983pt too wide) in alignment at lines 549--559
+Overfull \hbox (54.82983pt too wide) in alignment at lines 549--561
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-[14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 561.
- [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 561.
+[14] [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 563.
+ [16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 563.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 561.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 561.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 563.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 563.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1780,15 +1780,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 561.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 563.
  ) 
 Here is how much of TeX's memory you used:
  27785 strings out of 493638
- 521386 string characters out of 6146796
- 549799 words of memory out of 5000000
+ 521386 string characters out of 6146795
+ 549801 words of memory out of 5000000
  30896 multiletter control sequences out of 15000+600000
  17152 words of font info for 66 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  65i,7n,77p,10430b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (15 pages).
+Output written on main.pdf (16 pages).
