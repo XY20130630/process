@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.30)  6 DEC 2017 21:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.30)  7 DEC 2017 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1633,7 +1633,7 @@ LaTeX Font Info:    External font `xccex10' loaded for size
 LaTeX Font Info:    External font `xccex10' loaded for size
 (Font)              <6> on input line 34.
 
-Overfull \hbox (37.37065pt too wide) in alignment at lines 36--67
+Overfull \hbox (54.82983pt too wide) in alignment at lines 36--67
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -1664,14 +1664,14 @@ LaTeX Font Warning: Font shape `U/msb/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 69.
 
 
-Overfull \hbox (37.37065pt too wide) in alignment at lines 67--92
+Overfull \hbox (54.82983pt too wide) in alignment at lines 67--92
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 [1
 
 ]
-Overfull \hbox (37.37065pt too wide) in alignment at lines 92--119
+Overfull \hbox (54.82983pt too wide) in alignment at lines 92--119
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -1776,24 +1776,17 @@ Overfull \hbox (54.82983pt too wide) in alignment at lines 598--625
  []
 
 [16]
-Overfull \hbox (54.82983pt too wide) in alignment at lines 625--639
+Overfull \hbox (54.82983pt too wide) in alignment at lines 625--641
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 1 on input line 639.
-
 [17]
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 641.
-[18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 641.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 643.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 643.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 641.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 641.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 643.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 643.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1802,7 +1795,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 641.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 643.
  ) 
 Here is how much of TeX's memory you used:
  27786 strings out of 493638
