@@ -7,6 +7,7 @@
 \usepackage{colortbl}
 \usepackage{fancyvrb}
 \usepackage{longtable}
+\usepackage{tabu}
 \usepackage{xcolor}
 \usepackage[hidelinks]{hyperref}
 \usepackage[affil-it]{authblk}
@@ -33,10 +34,11 @@
 
 \maketitle
 
-\begin{longtable}{ccccccccccc}
+\begin{longtabu} to \textwidth{X[c]X[c]X[c]X[c]X[c]X[c]}
   \hline
   Date & Name & Source & First submitted & Status & Algorithm\\
   \hline
+  \endhead
   2017.5.20 & 天天爱跑步 & NOIP2016 & AC & AC & 线段树合并\\
    & 旅行 & bzoj3531 & AC & AC & 动态线段树+树链剖分\\
    & 安全路径 & USACO Jan09 & TL & AC & 可并堆\\
@@ -708,6 +710,6 @@
   \hline
   2017.12.29 & cf911G & cf & 理性 & 愉悦 & force segment\\
   \hline
-\end{longtable}
+\end{longtabu}
 
 \end{document}           
