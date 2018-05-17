@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.4.28)  17 MAY 2018 10:58
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.4.28)  17 MAY 2018 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1802,31 +1802,31 @@ LaTeX Font Info:    External font `xccex10' loaded for size
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-Overfull \hbox (33.86961pt too wide) in paragraph at lines 976--976
+Overfull \hbox (33.86961pt too wide) in paragraph at lines 978--978
  []\T1/ccr/m/n/10.95 segmentree+binary_search| 
  []
 
 
-Overfull \hbox (1.78004pt too wide) in paragraph at lines 976--976
+Overfull \hbox (1.78004pt too wide) in paragraph at lines 978--978
  []\T1/ccr/m/n/10.95 suffix_array+binary| 
  []
 
 
-Overfull \hbox (7.04207pt too wide) in paragraph at lines 976--976
+Overfull \hbox (7.04207pt too wide) in paragraph at lines 978--978
  []\T1/ccr/m/n/10.95 binary+priorityqueue| 
  []
 
 [1
 
 ] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 978.
- [32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 978.
+[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 980.
 
-(./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 978.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 978.
+[33]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 980.
+ (./main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 980.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 980.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1835,15 +1835,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 978.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 980.
  ) 
 Here is how much of TeX's memory you used:
- 30756 strings out of 493007
- 574141 string characters out of 6136719
- 1559183 words of memory out of 5000000
- 34435 multiletter control sequences out of 15000+600000
+ 30760 strings out of 493007
+ 574185 string characters out of 6136719
+ 1561397 words of memory out of 5000000
+ 34439 multiletter control sequences out of 15000+600000
  543792 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  57i,12n,74p,10430b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (32 pages).
+Output written on main.pdf (33 pages).
